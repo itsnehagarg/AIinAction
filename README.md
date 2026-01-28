@@ -10,7 +10,23 @@ Starting with this AI series where we will be exploring AI in depth. I will be b
 5. Agentic AI
 
 
-Agentic AI
+Agentic AI:
+
+
+Characteristics:
+
+1. Autonomous
+2. Goal oriented
+3. Context awareness
+4. Adaptability
+5. planning
+6. reasoning
+
+Components:
 
 Planning: LLM will plan, reason, communicate with the user
-Orchestrator: Plan needs to be executed. This is done with the help of the framework like Langraph
+Orchestrator: Plan needs to be executed. This is done with the help of the framework like Langraph. Task sequencing, conditional routing, retry logic, looping n iteration, delegation,
+Tools: External actions are done through tools like making calls to APIs, long term memory, state tracking, knowledge base
+Memory: short-term, long-term memory, state tracking is doen through memmory
+Supervisor: Notify to the user for approvals
+
