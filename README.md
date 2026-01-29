@@ -30,3 +30,12 @@ Tools: External actions are done through tools like making calls to APIs, long t
 Memory: short-term, long-term memory, state tracking is doen through memmory
 Supervisor: Notify to the user for approvals
 
+
+Langchain
+
+<img width="443" height="294" alt="image" src="https://github.com/user-attachments/assets/a377e41e-8b30-47b3-aa5b-3312b4566119" />
+
+Langraph
+
+
+
